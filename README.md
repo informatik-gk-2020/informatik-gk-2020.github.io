@@ -1,14 +1,12 @@
-# Informatik GK 2018-2020
-
-## Projekte
+# Projekte
 Die Namen der Repositories enthalten die Anfagsbuchstaben der Namen (falls vorhanden der GitHub-Profile) der Eigentümer.
 
-### Einstiegsprojekt Setzkasten
+## Einstiegsprojekt Setzkasten
 * [einstiegsprojekt-setzkasten-mj](https://github.com/informatik-gk-2020/einstiegsprojekt-setzkasten-mj)
 
-### Wagon
+## Wagon
 * [waggon-mj](https://github.com/informatik-gk-2020/waggon-mj)
 
-### Malprogramm
+## Malprogramm
 * [malprogramm-mja](https://github.com/informatik-gk-2020/malprogramm-mja)
 * [malprogramm-j](https://github.com/informatik-gk-2020/malprogramm-j)
