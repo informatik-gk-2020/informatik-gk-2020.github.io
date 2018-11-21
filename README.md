@@ -10,3 +10,6 @@ Die Namen der Repositories enthalten die Anfagsbuchstaben der Namen (falls vorha
 ## Malprogramm
 * [malprogramm-mja](https://github.com/informatik-gk-2020/malprogramm-mja)
 * [malprogramm-j](https://github.com/informatik-gk-2020/malprogramm-j)
+
+## Lampenprojekt
+* [lampenprojekt-tj](https://github.com/informatik-gk-2020/lampenprojekt-tj/)
